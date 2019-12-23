@@ -1,0 +1,6 @@
+D:\c#\ConsoleWebRequestFtp\ConsoleWebRequestFtp\bin\Debug\ConsoleWebRequestFtp.exe.config
+D:\c#\ConsoleWebRequestFtp\ConsoleWebRequestFtp\bin\Debug\ConsoleWebRequestFtp.exe
+D:\c#\ConsoleWebRequestFtp\ConsoleWebRequestFtp\bin\Debug\ConsoleWebRequestFtp.pdb
+D:\c#\ConsoleWebRequestFtp\ConsoleWebRequestFtp\obj\Debug\ConsoleWebRequestFtp.exe
+D:\c#\ConsoleWebRequestFtp\ConsoleWebRequestFtp\obj\Debug\ConsoleWebRequestFtp.pdb
+D:\c#\ConsoleWebRequestFtp\ConsoleWebRequestFtp\obj\Debug\ConsoleWebRequestFtp.csprojResolveAssemblyReference.cache
